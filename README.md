@@ -5,10 +5,10 @@
 ## Содержание
 
 - [Микросервисы](#микросервисы)
-  - [Сервис 1: Auth](#https://github.com/BatyrAbdusalamov/Auth_Micro-Service)
-  - [Сервис 2: General](#https://github.com/BatyrAbdusalamov/GeneralRedirectService)
-  - [Сервис 3: Nginx](#https://github.com/BatyrAbdusalamov/Nginx-Proxy-Service)
-  - [Сервис 4: Photo](#https://github.com/BatyrAbdusalamov/Photo-Service)
+  - [Сервис 1: Auth](https://github.com/BatyrAbdusalamov/Auth_Micro-Service)
+  - [Сервис 2: General](https://github.com/BatyrAbdusalamov/GeneralRedirectService)
+  - [Сервис 3: Nginx](https://github.com/BatyrAbdusalamov/Nginx-Proxy-Service)
+  - [Сервис 4: Photo](https://github.com/BatyrAbdusalamov/Photo-Service)
 
 
 ## Обзор
